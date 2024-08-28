@@ -77,7 +77,8 @@ streamlit run app.py
 
 ## Screenshot
 
-![Screenshot](Screenshot%2024-08-28%20185514.png)
+![Screenshot](Screenshot%202024-08-28%20110454.png)
+
 
 
 ## Requirements
