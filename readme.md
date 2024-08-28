@@ -77,7 +77,7 @@ streamlit run app.py
 
 ## Screenshot
 
-![Screenshot](Screenshot%202024-08-28%20110454.png)
+![Screenshot](Screenshot%202024-08-28%20185514.png)
 
 ## Requirements
 All required dependencies are listed in the `requirements.txt` file.
